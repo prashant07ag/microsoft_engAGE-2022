@@ -15,7 +15,7 @@ Welcome to the Movie Recommender System, a project developed as part of Microsof
 1. Ensure you have Python installed on your machine.
 2. Install the required libraries by running: `pip install streamlit pandas requests`.
 3. Clone the repository to your local machine.
-4. Run the Streamlit app using the command: `streamlit run your_app_name.py`.
+4. Run the Streamlit app using the command: `streamlit run main.py`.
 5. Select a movie from the dropdown menu and click the "Recommend" button.
 6. Explore the top 5 recommended movies along with their posters.
 
